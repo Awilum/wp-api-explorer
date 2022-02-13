@@ -1,0 +1,30 @@
+{
+    "name": "wp-extends/api-explorer",
+    "description": "Rest API explorer for WordPress",
+    "license": "MIT",
+    "keywords": [
+        "wp", "wordpress", "restapi", "rest", "api"
+    ],
+    "support": {
+      "source": "https://github.com/wp-extends/api-explorer",
+      "issues": "https://github.com/wp-extends/api-explorer/issues"
+    },
+    "authors": [
+        {
+            "name": "Sergey Romanenko",
+            "email": "sergey.romanenko@flextype.org",
+            "homepage": "https://github.com/Awilum"
+        }
+    ],
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "ext-json": "*",
+        "ext-mbstring": "*",
+        "ext-spl": "*",
+        "ext-fileinfo": "*",
+        "glowy/view": "^1.0.0"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.3.6"
+    }
+}
