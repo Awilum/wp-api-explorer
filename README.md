@@ -1,6 +1,6 @@
-# API Explorer
+# WordPress API Explorer
 
-Adds API Explorer link for pages, posts, tags, categories and comments 
+WordPress plugins adds API Explorer link for pages, posts, tags, categories and comments
 
 ![](./preview-1.png)
 ![](./preview-2.png)
