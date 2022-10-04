@@ -28,7 +28,7 @@
             $id = $data->comment_ID;
             break;
         default:
-            # code...
+  
             break;
     }
 ?>
